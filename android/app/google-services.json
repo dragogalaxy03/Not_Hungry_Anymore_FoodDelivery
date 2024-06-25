@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948518936088",
+    "project_id": "not-hungry-anymore-1",
+    "storage_bucket": "not-hungry-anymore-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948518936088:android:2c51b540fb231d3c44ed6d",
+        "android_client_info": {
+          "package_name": "com.example.not_hungry_anymore1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBonb617qogSIsHz9ADEtfNsbHQh8cOdgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
